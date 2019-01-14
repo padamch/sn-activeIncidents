@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4e2762b0ebc723003ae93c4fea887e75</sp_column>
+        <sp_widget display_value="Active Incidents">2fa56a30ebc723003ae93c4fea887e51</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-14 17:50:23</sys_created_on>
+        <sys_id>67276e70ebc723003ae93c4fea887e67</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>List of incident contains email</sys_name>
+        <sys_package display_value="Active Incidents" source="x_241026_active_in">39356ebceb8723003ae93c4fea887ec5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Active Incidents">39356ebceb8723003ae93c4fea887ec5</sys_scope>
+        <sys_update_name>sp_instance_67276e70ebc723003ae93c4fea887e67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-14 17:59:51</sys_updated_on>
+        <title>List of incident contains email</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"table": {
+		"value": "",
+		"displayValue": ""
+	},
+	"query": {
+		"value": "",
+		"displayValue": ""
+	},
+	"template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=67276e70ebc723003ae93c4fea887e67"/>
+</record_update>

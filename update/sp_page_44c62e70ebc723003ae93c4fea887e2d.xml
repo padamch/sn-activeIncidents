@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>active_incidents</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-14 17:48:48</sys_created_on>
+        <sys_id>44c62e70ebc723003ae93c4fea887e2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active_incidents</sys_name>
+        <sys_package display_value="Active Incidents" source="x_241026_active_in">39356ebceb8723003ae93c4fea887ec5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Active Incidents">39356ebceb8723003ae93c4fea887ec5</sys_scope>
+        <sys_update_name>sp_page_44c62e70ebc723003ae93c4fea887e2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-14 17:48:48</sys_updated_on>
+        <title>Active Incidents</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=44c62e70ebc723003ae93c4fea887e2d"/>
+</record_update>

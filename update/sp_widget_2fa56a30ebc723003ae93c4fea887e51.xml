@@ -32,13 +32,13 @@
         <demo_data/>
         <description/>
         <docs/>
-        <field_list/>
+        <field_list>title,color</field_list>
         <has_preview>false</has_preview>
         <id>active_incidents</id>
         <internal>false</internal>
         <link/>
         <name>Active Incidents</name>
-        <option_schema/>
+        <option_schema>[{"name":"table","section":"other","label":"Table","type":"string"},{"name":"query","section":"other","default_value":"short_descriptionCONTAINSemail","label":"Query","type":"string"},{"name":"template","section":"other","default_value":"incident_category","label":"Template","type":"string"}]</option_schema>
         <public>false</public>
         <roles/>
         <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
@@ -47,14 +47,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-14 17:43:49</sys_created_on>
         <sys_id>2fa56a30ebc723003ae93c4fea887e51</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Active Incidents</sys_name>
         <sys_package display_value="Active Incidents" source="x_241026_active_in">39356ebceb8723003ae93c4fea887ec5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Active Incidents">39356ebceb8723003ae93c4fea887ec5</sys_scope>
         <sys_update_name>sp_widget_2fa56a30ebc723003ae93c4fea887e51</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-14 17:46:38</sys_updated_on>
+        <sys_updated_on>2019-01-14 17:58:59</sys_updated_on>
         <template><![CDATA[<div class="panel panel-{{c.options.color}}">
   <!-- your widget template -->
   <div class="panel-heading">

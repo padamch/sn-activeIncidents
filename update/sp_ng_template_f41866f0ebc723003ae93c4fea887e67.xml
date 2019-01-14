@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="INSERT_OR_UPDATE">
+        <id>incident_category</id>
+        <sp_widget display_value="Active Incidents">2fa56a30ebc723003ae93c4fea887e51</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-14 17:55:29</sys_created_on>
+        <sys_id>f41866f0ebc723003ae93c4fea887e67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident_category</sys_name>
+        <sys_package display_value="Active Incidents" source="x_241026_active_in">39356ebceb8723003ae93c4fea887ec5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Active Incidents">39356ebceb8723003ae93c4fea887ec5</sys_scope>
+        <sys_update_name>sp_ng_template_f41866f0ebc723003ae93c4fea887e67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-14 17:55:29</sys_updated_on>
+        <template><![CDATA[<span>{{item.number}} - {{item.short_description}} - {{item.category}}</span>]]></template>
+    </sp_ng_template>
+</record_update>
