@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">842762b0ebc723003ae93c4fea887e4d</sp_column>
+        <sp_widget display_value="k18_count_display_widget">69d3d9e8eb4323003ae93c4fea887e51</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-14 18:03:07</sys_created_on>
+        <sys_id>d21a6a34ebc723003ae93c4fea887ebb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Active Incidents" source="x_241026_active_in">39356ebceb8723003ae93c4fea887ec5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Active Incidents">39356ebceb8723003ae93c4fea887ec5</sys_scope>
+        <sys_update_name>sp_instance_d21a6a34ebc723003ae93c4fea887ebb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-14 18:03:07</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d21a6a34ebc723003ae93c4fea887ebb"/>
+</record_update>
